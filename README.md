@@ -3,7 +3,7 @@
 
 **本系列共六章，完整列表如下：**
 
-[《分布式联机服务技术框架(IBP)设计与实战（一、概述，小甜点）》](Distributed Online-Service Framework(IBP) 1.Overview,Appetizers.md)
+[《分布式联机服务技术框架(IBP)设计与实战（一、概述，小甜点）》](calvinwilliams/InterBankPlusDocuments/Distributed Online-Service Framework(IBP) 1.Overview,Appetizers.md)
 
 [《分布式联机服务技术框架(IBP)设计与实战（二、平台体系架构）》](Distributed Online-Service Framework(IBP) 2.Platform architecture.md)
 
