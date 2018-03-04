@@ -38,6 +38,8 @@ IBP(InterBankPlus)ÍÑÌ¥ÓÚÒøÐÐºËÐÄÏµÍ³Æ½Ì¨·Ö²¼Ê½·þÎñ¸ÄÔì¶øÉú£¬½è¼øÁËSOAP¡¢ESB¡¢Î¢·
 
 IBPÎªÁËÊµÏÖÐÔÄÜ¼«ÖÂ£¬ºËÐÄÍêÈ«ÓÃC×ÔÑÐ£¬´úÂëÔ¼9ÍòÐÐ£¬·Ö¾Å´óÄ£¿é£¬´úÂë½á¹¹ÇåÎú£¬×¢ÊÍ·á¸»£¬Ò×ÓÚÔÄ¶ÁºÍ¸ÄÔì£¬»¹´óÁ¿Ê¹ÓÃ´úÂë×Ô¶¯»¯Éú³É¼¼Êõ£¬¼õÇáÁËµ×²ãÏ¸½Ú±àÂëÑ¹Á¦¡£
 
+IBPÒÑÓÚ2017Äê11ÔÂËæÄ³ÐÐECIFÒµÎñÆ½Ì¨Í¶²ú£¬ÔËÐÐÖÁ½ñÎÈ¶¨¸ßÐ§¡£
+
 ## 1.2. ¾Å´óÄ£¿é
 
 ![Ä£¿é¼Ü¹¹Í¼](modules.png)
